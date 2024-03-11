@@ -1,0 +1,14 @@
+.table-history th,
+.table-history td{
+    border: 1px solid gray;
+    padding: 7px;
+}
+a{
+    color: rgb(0, 84, 168);
+    text-decoration: none;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+
+}
